@@ -1,0 +1,49 @@
+@media only screen and (min-width:0px) and (max-width:992px)
+{
+    .drop
+    {
+        display: block;
+        float: right;
+        border-radius: 15px;
+    }
+    .resp-left
+    {
+        display: block;
+    }
+    .right-head
+    {
+        display: none;
+    }
+    .main-cont
+    {
+       display: none !important;
+    }
+}
+@media only screen and (min-width:0px) and (max-width:767px)
+{
+    .head a
+    {
+        font-size: 20px;
+    }
+    .port-img
+    {
+        margin-left: 0%;
+        margin-right: 0%;
+    }
+    .dropdown-item
+    {
+        font-size: 12px !important;
+    }
+    .container
+    {
+        width: 100% !important;
+    }
+    .name3 
+    {
+        font-size: 40px !important;
+    }
+    .name4
+    {
+        font-size: 40px !important;
+    }
+}
